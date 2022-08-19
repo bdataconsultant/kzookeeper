@@ -4,6 +4,6 @@ source 'https://supermarket.chef.io'
 
 metadata
  
-cookbook 'kagent', github: "logicalclocks/kagent-chef", branch: "1.0"
+cookbook 'kagent', github: "bdataconsultant/kagent-chef", branch: "1.0"
 cookbook 'java', '= 7.0.0'
-cookbook 'kagent', github: "giabbo79/kagent-chef", branch: "1.0"
+cookbook 'kagent', github: "bdataconsultant/kagent-chef", branch: "1.0"
